@@ -11,7 +11,7 @@
 	<groupId>co.uk.project</groupId>
 	<artifactId>sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sample</name>
+	<name>war</name>
 	<description>Sample Phone Directory Services</description>
 
 	<properties>
