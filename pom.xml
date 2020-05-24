@@ -63,7 +63,7 @@
                      <!--<warName>sample-web</warName>-->
                 </configuration>
             </plugin>
-            <plugin>
+            
 			<plugin>
             			<groupId>org.wildfly.plugins</groupId>
             			<artifactId>wildfly-maven-plugin</artifactId>
